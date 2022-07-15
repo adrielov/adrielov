@@ -37,8 +37,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=adrielov&show_icons=true&theme=vision-friendly-dark" alt="adrielov's stats"/>
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielov&layout=compact&theme=vision-friendly-dark" alt="adrielov's most languages"/>
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=adrielov&show_icons=true&theme=vision-friendly-dark" alt="adrielov's stats"/>
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielov&layout=compact&theme=vision-friendly-dark" alt="adrielov's most languages"/>
 </p>
 
 
