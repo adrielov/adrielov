@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
 
-- 🔭 I’m currently working at [www.iuptec.com.br]Iuptec
+- 🔭 I’m currently working at [Iuptec](iuptec.com.br) &&  [Iup Care](iup.care)
 
 - ▶️ I (not) regularly post videos on [youtube.com/adrielov](https://youtube.com/adrielov)
 
