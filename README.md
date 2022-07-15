@@ -38,7 +38,7 @@
 
 <p align="left">
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=adrielov&show_icons=true" alt="adrielov's stats"/>
-<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielov&layout=compact" alt="adrielov's most languages"/>
+<img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielov&layout=compact" alt="adrielov's most languages"/>
 </p>
 
 
